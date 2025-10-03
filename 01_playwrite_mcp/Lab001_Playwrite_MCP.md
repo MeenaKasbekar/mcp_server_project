@@ -1,0 +1,1 @@
+can you open http://app.vwo.com and add a random email, passwordin the text box and click on the submit button and verify the message of error aftersometime using the playwrite mcp and also close the brower at the end.
