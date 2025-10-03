@@ -1,0 +1,1 @@
+Let's tell him to create a source file in python playwrite for the same project to do the same thing and take a screenshot also and close it.
